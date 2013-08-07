@@ -1,7 +1,5 @@
 ## 08/07/13 15:20 ##
 
-Barista: Jake
-
 Beans: 36g @ 17clicks on Baratza Encore
 
 Water: 504g @ 206°F
