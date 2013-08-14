@@ -1,24 +1,24 @@
-## 08/13/13 15:10 ##
+## 08/14/13 13:03 ##
 
-Beans: 36.2g @ 16clicks on Baratza Encore
+Beans: 36.0g @ 16clicks on Baratza Encore
 
-Water: 526.7g @ 206°F
+Water: 502.3g @ 204°F
 
 Timeline:
-Pour 66g of water, wait 30seconds
+Pour 86g of water, wait 30seconds
 Pour rest, topping off as needed
 
 Key is creating a whirlpool motion, spiraling as you pour as little as possible
 water to maintain water level
 
-Total: 2:42.66
+Total: 2:27.39
 
 ### Notes ###
 
-Getting a lot of burnt notes. I'm seriously starting to wonder if the roaster
-messed up this batch or if I'm totally doing something wrong. I haven't changed
-*anything*. The chocolate is there still, with a bit of toffee sweetness but
-its mostly just burnt.
+Tried 2°F cooler water today to try the theory of maybe I'm burning the beans
+at 206°F. The flavor is better but I'm still not entirely finished tweaking.
 
-A little cooler its much better; more chocolate, maybe even some milk chocolate
-but the finish is still charcoal/burnt.
+Much more dark dark chocolate with a toffee finish than the previous
+charcoal/burnt flavors I was getting.
+
+Probably try at 202°F tomorrow.
