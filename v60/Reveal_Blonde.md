@@ -4,7 +4,8 @@ Beans: 36.0g @ 16clicks on Baratza Encore
 
 Water: 503.2g @ 202°F
 
-Timeline:
+### Timeline ###
+
 Pour 77g of water, wait 36.77 seconds
 Pour rest, topping off as needed
 
