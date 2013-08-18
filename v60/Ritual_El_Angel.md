@@ -1,27 +1,20 @@
-## 08/17/13 15:01 ##
+## 08/18/13 14:08 ##
 
-Beans: 36.0g @ 12clicks on Home Baratza Encore 
+Beans: 36.4g @ 12clicks on Home Baratza Encore 
 
-Water: 507.2g @ 205°F
+Water: 502.1g @ 205°F
 
 ### Timeline ###
 
-Pour 56g of water, wait 47.63  seconds
+Pour 67.6g of water, wait 47.30  seconds
 Pour rest, topping off as needed
 
 Key is creating a whirlpool motion, spiraling as you pour as little as possible
 water to maintain water level
 
-Total: 3:56.24
+Total: 3:48.67
 
 ### Notes ###
 
-Holy crap this coffee is sweet! Caramel and vanilla galore. Tastes like a dark
-chocolate caramel ghirardelli square. 
-
-Definitely thought I had screwed it up because of how long it took to pour out,
-but now I need to try a finer grind at the office.
-
-The bloom on this coffee makes me really question the coffee that Reveal brings
-the office. I wonder if that is why the flavors have become so muted rather
-than bitter.
+Made it the same way, tastes exactly the same. The super bomb of sweet caramel
+is a bit muted but its still lovely.
