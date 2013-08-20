@@ -1,20 +1,20 @@
-## 08/18/13 14:08 ##
+## 08/19/13 12:08 ##
 
-Beans: 36.4g @ 12clicks on Home Baratza Encore 
+Beans: 36.1g @ 12clicks on Home Baratza Encore 
 
-Water: 502.1g @ 205°F
+Water: 500.1g @ 205°F
 
 ### Timeline ###
 
-Pour 67.6g of water, wait 47.30  seconds
+Pour 50.0g of water, wait 57.30  seconds
 Pour rest, topping off as needed
 
 Key is creating a whirlpool motion, spiraling as you pour as little as possible
 water to maintain water level
 
-Total: 3:48.67
+Total: 3:45.12
 
 ### Notes ###
 
-Made it the same way, tastes exactly the same. The super bomb of sweet caramel
-is a bit muted but its still lovely.
+Again with the caramel. So good. It runs along the side of your mouth in the
+most pleasant way
