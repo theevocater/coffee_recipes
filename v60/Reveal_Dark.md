@@ -1,12 +1,12 @@
-## 09/04/13 11:30 ##
+## 09/05/13 13:36 ##
 
-Beans: 36.2g @ 18clicks on Baratza Encore
+Beans: 36.1g @ 18clicks on Baratza Encore
 
-Water: 500.0g @ 200°F
+Water: 504.0g @ 190°F
 
 ### Timeline ###
 
-Pour 100.0g of water, wait 30.33 seconds
+Pour 129.0g of water, wait 45.33 seconds
 Pour rest, topping off as needed
 
 Key is creating a whirlpool motion, spiraling as you pour as little as possible
@@ -15,10 +15,8 @@ water to maintain water level
 I tend to not wash down the sides, as it seems to move water through the
 grounds faster.
 
-Total: 2:23.99
+Total: 2:33.99
 
 ### Notes ###
 
-Still really dark and a bit stronger. Lots of charcoal, some of that chocolate
-and acid. Definitely want to try going to 190F to see if I can get rid of the
-acid. Maybe 190F and a much finer grind will get me where I want.
+Moving to 190°F was a good plan. A lot of the charcoal flavor is gone so the earthy and chocolatey flavors stand out. 
