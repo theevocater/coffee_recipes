@@ -1,25 +1,28 @@
-## 08/15/13 13:54 ##
+## 08/16/13 13:54 ##
 
-Beans: 36.0g @ 16clicks on Baratza Encore
+Beans: 36.4g @ 17clicks on Baratza Encore
 
-Water: 503.2g @ 202°F
+Water: 507.1g @ 200°F
 
 ### Timeline ###
 
-Pour 77g of water, wait 36.77 seconds
+Pour 96.8g of water, wait 32.48 seconds
 Pour rest, topping off as needed
 
 Key is creating a whirlpool motion, spiraling as you pour as little as possible
 water to maintain water level
 
-I tend to not wash down the sides, as it seems to move water through the
-grounds faster.
+You want to start in the middle of the grounds and slowly make a spiral growing
+outward to the rim, finishing by washing the sides down.
 
-Total: 2:41.81
+Total: 3:04.07
 
 ### Notes ###
 
-Okay tried 202°F and it was great. Charcoal flavor lingers in the mouth, but up
-front its all dark dark chocolate with some toffee to follow. Also getting
-some... caramel? Something somewhat fruity. Now just have to see if this is
-sustainable.
+So the coffee is getting more stale since the last time I made it but lowering
+the temperature combined with the new spiral technique has yielded some
+surprisingly okay coffee. Starts a bit berry and heads to chocolate.
+
+I think the bag strategy should definitely be to start at maybe 205°F or 206°F
+and then slowly lower the temp a few degrees every few days until you kill the
+bag.
