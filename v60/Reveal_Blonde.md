@@ -1,12 +1,12 @@
 ## 08/16/13 13:54 ##
 
-Beans: 36.6g @ 17clicks on Baratza Encore
+Beans: 36.1g @ 18clicks on Baratza Encore
 
-Water: 507.1g @ 200°F
+Water: 501.2g @ 200°F
 
 ### Timeline ###
 
-Pour 95.4g of water, wait 46.78 seconds
+Pour 79.0g of water, wait 28.65 seconds
 Pour rest, topping off as needed
 
 Key is creating a whirlpool motion, spiraling as you pour as little as possible
@@ -15,8 +15,10 @@ water to maintain water level
 You want to start in the middle of the grounds and slowly make a spiral growing
 outward to the rim, finishing by washing the sides down.
 
-Total: 3:02.07
+Total: 02:40.73
 
 ### Notes ###
 
-Late afternoon redux was not as successful. I think the kettle's PID is not as accurate as it could be. I set the kettle high on accident and let it cool but it tasted like it was over what I did this morning. Anyway it still had the flavor just a bit "off". Maybe a bit too much charcoal? 
+I cleaned the grinder today and it seems to have helped the grind. I can't taste a difference but it ground much faster so the oil from the dark beans we had the last few weeks was definitely causing some slipping. 
+
+Anyway I hit the flavor I had yesterday morning so I'm happy. The first sip has a lot of that charcoal flavor but as the coffee cools the chocolate-y caramel-y flavors peek out. No fruit at all today. 
