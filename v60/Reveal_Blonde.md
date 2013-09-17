@@ -1,4 +1,4 @@
-## 08/16/13 13:54 ##
+## 08/17/13 10:55 ##
 
 Beans: 36.1g @ 18clicks on Baratza Encore
 
