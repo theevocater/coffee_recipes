@@ -1,27 +1,25 @@
-## 08/16/13 14:00 ##
+## 08/20/13 16:32 ##
 
-Beans: 50.0g @ 16clicks on Baratza Encore
+Beans: 43.3g @ 21clicks on Baratza Encore
 
-Water: 503.2g @ 200°F
+Water: 349.0g @ 200°F
 
 ### Timeline ###
 
-Pour 86g of water, wait 36.10 seconds
+Pour 101.5g of water, wait 30.10 seconds
 Pour rest, topping off as needed
 
-Key is creating a whirlpool motion, spiraling as you pour as little as possible
-water to maintain water level
+Same technique as hot coffee. Create the whirlpool, and let it drain a bit and
+keep topping it off. I generally do a big pour to start, let it drain down,
+wash down the sides and keep it topped off.
 
-I tend to not wash down the sides, as it seems to move water through the
-grounds faster.
+After you finish making the hot coffee, drop in some ice, stir, and enjoy. My
+method for ice is make stronger coffee (hence the higher ratio) and then dilute
+it with a lot of ice. I know its not very in the spirit of this repo, but it
+works and its fun to taste the coffee as it dilutes more and more.
 
-Drop in some ice, stir enjoy. My method for ice is make stronger coffee (hence
-the 10:1 ratio above) and then dilute it with a lot of ice. I know its not very
-in the spirit of this repo, but it works and its fun to taste the coffee as it
-dilutes more and more.
-
-Total: 2:34.34
+Total: 2:04.34
 
 ### Notes ###
 
-chocolate, caramel, and as it dilutes much fruitier notes but very little acid.
+Very sweet, with a lot of those caramel flavors.
