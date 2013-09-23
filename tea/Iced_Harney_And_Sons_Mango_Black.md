@@ -1,14 +1,15 @@
-## 08/20/13 16:55 ##
+## 08/20/13 17:35 ##
 
-Tea: 10.2g
+Tea: 15.0g
 
-Water: 602.3g @ 210°F
+Water: 602.0g @ 210°F
 
-Time: 6minutes
+Time: 8minutes
 
-Ice: 404g
+Ice: 425g
 
 ### Notes ###
 
-More flavor but its still not really there. I'll try to up the grams next time as well.
+Really liking the flavor. The black tea is now coming through the mango flavor.
+Makes the perfect afternoon drink honestly.
 
