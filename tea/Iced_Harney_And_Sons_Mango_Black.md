@@ -1,14 +1,14 @@
-## 08/19/13 16:30 ##
+## 08/20/13 16:55 ##
 
-Tea: 10.3g
+Tea: 10.2g
 
 Water: 602.3g @ 210°F
 
-Time: 4minutes
+Time: 6minutes
 
-Ice: 417g
+Ice: 404g
 
 ### Notes ###
 
-Weak, but very mango-y. Up the time next time.
+More flavor but its still not really there. I'll try to up the grams next time as well.
 
