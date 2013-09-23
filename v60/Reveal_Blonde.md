@@ -1,12 +1,12 @@
-## 08/17/13 10:55 ##
+## 9/20/13 12:55 ##
 
-Beans: 36.1g @ 18clicks on Baratza Encore
+Beans: 37.0g @ 21clicks on Baratza Encore
 
-Water: 501.2g @ 200°F
+Water: 501.7g @ 200°F
 
 ### Timeline ###
 
-Pour 79.0g of water, wait 28.65 seconds
+Pour 106.1g of water, wait 28.77 seconds
 Pour rest, topping off as needed
 
 Key is creating a whirlpool motion, spiraling as you pour as little as possible
@@ -15,10 +15,11 @@ water to maintain water level
 You want to start in the middle of the grounds and slowly make a spiral growing
 outward to the rim, finishing by washing the sides down.
 
-Total: 02:40.73
+Total: 02:02.64
 
 ### Notes ###
 
-I cleaned the grinder today and it seems to have helped the grind. I can't taste a difference but it ground much faster so the oil from the dark beans we had the last few weeks was definitely causing some slipping. 
+So I accidentally ground some beans wayyyy too big, and it totally worked out.
+I think the quicker pour means it doesn't pick up some of the nastier flavors
+but I don't know. Maybe it was a fluke?
 
-Anyway I hit the flavor I had yesterday morning so I'm happy. The first sip has a lot of that charcoal flavor but as the coffee cools the chocolate-y caramel-y flavors peek out. No fruit at all today. 
