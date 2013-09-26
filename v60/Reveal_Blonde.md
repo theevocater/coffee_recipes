@@ -1,12 +1,12 @@
-## 9/23/13 12:55 ##
+## 9/24/13 12:55 ##
 
-Beans: 36.7g @ 21clicks on Baratza Encore
+Beans: 36.3g @ 21clicks on Baratza Encore
 
-Water: 502.1g @ 200°F
+Water: 501.1g @ 200°F
 
 ### Timeline ###
 
-Pour 90.3g of water, wait 28.33 seconds
+Pour 88.9g of water, wait 23.40 seconds
 Pour rest, topping off as needed
 
 Key is creating a whirlpool motion, spiraling as you pour as little as possible
@@ -15,10 +15,8 @@ water to maintain water level
 You want to start in the middle of the grounds and slowly make a spiral growing
 outward to the rim, finishing by washing the sides down.
 
-Total: 02:04.66
+Total: 02:11.40
 
 ### Notes ###
 
-Nope, worked out perfectly again. Boring, but a sturdy cup especially given
-these beans are ... 4 weeks old? decent
 
