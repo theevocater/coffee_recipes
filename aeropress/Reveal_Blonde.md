@@ -1,4 +1,4 @@
-## [Aeropress](../) / Reveal Blonde ##
+## [Aeropress](.) / Reveal Blonde ##
 
 Date: 10/9/13 11:45 
 
@@ -53,7 +53,7 @@ at 1:45.
 
 ### Notes ###
 
-Tasty. Brings out a lot more of the acid than the [v60](../../v60/Reveal_Blonde.md) as expected. Still
+Tasty. Brings out a lot more of the acid than the [v60](../v60/Reveal_Blonde.md) as expected. Still
 chocolate-y but more chocolate orange. Cup gets sweeter as it cools, revealing
 some caramels.
 
