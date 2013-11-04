@@ -22,23 +22,27 @@ at 1:45.
 ### Timeline ###
 
 0:00 
+
     Pour 18.7g grinds into inverted aeropress
     Make sure water is 190°F
     add 50-75g of water (enough to make grounds all wet)
     stir
 
 0:20 
+
     stop stirring
     add water to get to about 250g
 
 1:15
+
     screw on cap
     press out air
     flip on to cup
     shake a bit
     press down
 
-1:45
+#### 1:45
+
     you should be done pressing.
     pop cap off
     push plunger down to pop grinds into trash
