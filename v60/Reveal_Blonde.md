@@ -1,4 +1,3 @@
-# WIP #
 ## [Coffee](../) / [V60](.) / Reveal Blonde ##
 
 Date: 10/29/13 13:44
@@ -21,12 +20,14 @@ or two extra because the grinder always eats a bit. The water should be done
 now so pour water into your filter to get it thoroughly wet. This also
 serves to warm up the cone and the mug/pot. Prep is now done.
 
-I now poured 36.0g of beans into the wet filter and added TODOg of water. The
-coffee didn't bloom much because we buy our coffee in bulk. After TODOseconds,
-I poured in TODOg of water. I then took my spoon and stirred the coffee a tiny
-bit. At TODOsec, I poured in TODOg of water and stirred again with the spoon.
-TODO. After it finished draining, I dropped the filter into the trash and
-enjoyed!
+I now poured 36.0g of beans into the wet filter. Shake the V60 a bit to settle
+the grounds and then add a little dimple with one of your knuckles. This helps
+create an even first pour. Then add 102.2g of water. The coffee didn't bloom
+much because we buy our coffee in bulk. After 40.76seconds, I poured to 266.3g
+of water. This roughly filled the 02 V60. I then took my spoon and stirred the
+coffee a tiny bit. I poured up to 399.3g of water and stirred again. Then
+I topped it off to 508.3g. After it finished draining, I dropped the filter
+into the trash and enjoyed!
 
 ### Timeline ###
 
@@ -40,7 +41,7 @@ enjoyed!
 
 0:30
 
-    Pour...
+    Pour to roughly fill the V60. 
 
 
 Total: 02:11.40
