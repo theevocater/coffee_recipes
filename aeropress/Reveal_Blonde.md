@@ -41,7 +41,7 @@ at 1:45.
     shake a bit
     press down
 
-#### 1:45
+1:45
 
     you should be done pressing.
     pop cap off
