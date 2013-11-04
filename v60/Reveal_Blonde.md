@@ -1,22 +1,53 @@
-## 9/24/13 12:55 ##
+# WIP #
+## [Coffee](../) / [V60](.) / Reveal Blonde ##
 
-Beans: 36.3g @ 21clicks on Baratza Encore
+Date: 10/29/13 13:44
 
-Water: 501.1g @ 200°F
+Beans: 36.0g @ 17clicks on Baratza Encore
+
+Water: 508.3g @ 205°F
+
+Other: Spoon
+
+### Writeup ###
+
+Put the kettle on to boil and fold out fresh filter. A filter can be folded by
+folding down the cone along the ridge created by the seam. I tend to use water
+that is a bit off boil (around 200°F-205°F) depending on the age of the coffee.
+
+I then measure out roughly 36g of beans and make sure to set the grinder to
+around 17 clicks. Definitely never ever forget. Generally I measure out a gram
+or two extra because the grinder always eats a bit. The water should be done
+now so pour water into your filter to get it thoroughly wet. This also
+serves to warm up the cone and the mug/pot. Prep is now done.
+
+I now poured 36.0g of beans into the wet filter and added TODOg of water. The
+coffee didn't bloom much because we buy our coffee in bulk. After TODOseconds,
+I poured in TODOg of water. I then took my spoon and stirred the coffee a tiny
+bit. At TODOsec, I poured in TODOg of water and stirred again with the spoon.
+TODO. After it finished draining, I dropped the filter into the trash and
+enjoyed!
 
 ### Timeline ###
 
-Pour 88.9g of water, wait 23.40 seconds
-Pour rest, topping off as needed
+0:00
 
-Key is creating a whirlpool motion, spiraling as you pour as little as possible
-water to maintain water level
+    Wet filter with 100-200g of water
+    Water should be 200-205°F
+    Pour in 36g of beans
+    Add roughly 2x number of grams of beans in water (72g)
+    Watch the grounds bloom
 
-You want to start in the middle of the grounds and slowly make a spiral growing
-outward to the rim, finishing by washing the sides down.
+0:30
+
+    Pour...
+
 
 Total: 02:11.40
 
 ### Notes ###
 
-
+Whoa adding the spoon totally adds crazy amounts of acid that wasn't present
+before. I've tried this a few times thinking maybe the spoon was contaminated
+but it seems to be repeatable. It still has a bit of the caramel and toffee but
+bam all of a sudden citrus.

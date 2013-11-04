@@ -1,6 +1,6 @@
 ## [Coffee](../) / [Aeropress](.) / Reveal Blonde ##
 
-Date: 10/9/13 11:45 
+Date: 10/9/13 11:45
 
 Beans: 18.7g @ 12clicks on Baratza Encore
 
@@ -23,14 +23,14 @@ at 1:45.
 
 ### Timeline ###
 
-0:00 
+0:00
 
     Pour 18.7g grinds into inverted aeropress
     Make sure water is 190°F
     Add 50-75g of water (enough to make grounds all wet)
     Stir
 
-0:20 
+0:20
 
     Stop stirring
     Add water to get to about 250g
@@ -45,7 +45,7 @@ at 1:45.
 
 1:45
 
-    Finish pressing.
+    Finish pressing
     Pop cap off
     Push plunger down to pop grinds into trash
     Put cup on scale
