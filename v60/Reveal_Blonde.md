@@ -13,38 +13,62 @@ Other: Spoon
 Put the kettle on to boil and fold out fresh filter. A filter can be folded by
 folding down the cone along the ridge created by the seam. I tend to use water
 that is a bit off boil (around 200°F-205°F) depending on the age of the coffee.
+Then measure out roughly 37g of beans. Generally I measure out a gram or two
+extra because the grinder eats a bit. Be sure to check that your grinder is set
+correctly; my grinder is usually good on 17 clicks but it varies significantly
+with model and specific instance. When the water is hot, pour water all around
+the filter to get it thoroughly wet. This also warms up the cone and mug/pot.
+Run your beans through the grinder and discard the water you used to clean the
+filter. If you are using a pot, pour the water in the cups you are going to
+pour into to heat them up. Prep is now done.
 
-I then measure out roughly 36g of beans and make sure to set the grinder to
-around 17 clicks. Definitely never ever forget. Generally I measure out a gram
-or two extra because the grinder always eats a bit. The water should be done
-now so pour water into your filter to get it thoroughly wet. This also
-serves to warm up the cone and the mug/pot. Prep is now done.
+Now pour about 36g of grounds into the wet filter. Shake the V60 a bit to
+settle the grounds and then add a little dimple with a knuckle or the spoon.
+This helps create an even first pour; the cone is deep in the middle so adding
+a little dimple means the water can more evenly wet the grounds. Start by
+pouring 70-100g of water. The coffee will "bloom" if its fresh. The grounds
+should rise up and form a dome shape as they absorb water. After 30 seconds the
+water should have stopped dripping and you add about 150g of water. This
+roughly fills an 02 V60. I then took my spoon and stirred the coffee grounds
+a tiny bit. Pour around another 100-150g of water when the water level
+approaches the coffee level and stir the grounds a bit. Then I topped it off to
+500g in total. After it finishes draining, drop the filter in the trash and
+enjoy!
 
-I now poured 36.0g of beans into the wet filter. Shake the V60 a bit to settle
-the grounds and then add a little dimple with one of your knuckles. This helps
-create an even first pour. Then add 102.2g of water. The coffee didn't bloom
-much because we buy our coffee in bulk. After 40.76seconds, I poured to 266.3g
-of water. This roughly filled the 02 V60. I then took my spoon and stirred the
-coffee a tiny bit. I poured up to 399.3g of water and stirred again. Then
-I topped it off to 508.3g. After it finished draining, I dropped the filter
-into the trash and enjoyed!
-
-### Timeline ###
+### Rough Timeline ###
 
 0:00
 
-    Wet filter with 100-200g of water
     Water should be 200-205°F
+    Wet filter with 100-200g of water
     Pour in 36g of beans
     Add roughly 2x number of grams of beans in water (72g)
-    Watch the grounds bloom
 
 0:30
 
-    Pour to roughly fill the V60. 
+    Pour around 150g of water to roughly fill the V60. 
+    Stir grounds
 
+1:00
 
-Total: 02:11.40
+   Pour another 100g water to roughly fill V60
+   Stir grounds 
+
+1:30
+  
+   Pour another 100g water to roughly fill V60
+   Stir grounds 
+
+2:00
+
+    Top off
+    Stir grounds
+
+2:30
+
+  Finished dripping
+  Toss Filter
+
 
 ### Notes ###
 
