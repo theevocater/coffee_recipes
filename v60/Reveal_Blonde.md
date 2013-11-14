@@ -51,13 +51,13 @@ enjoy!
 
 1:00
 
-   Pour another 100g water to roughly fill V60
-   Stir grounds 
+    Pour another 100g water to roughly fill V60
+    Stir grounds 
 
 1:30
   
-   Pour another 100g water to roughly fill V60
-   Stir grounds 
+    Pour another 100g water to roughly fill V60
+    Stir grounds 
 
 2:00
 
@@ -66,8 +66,8 @@ enjoy!
 
 2:30
 
-  Finished dripping
-  Toss Filter
+    Finished dripping
+    Toss Filter
 
 
 ### Notes ###
