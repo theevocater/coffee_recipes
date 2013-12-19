@@ -10,3 +10,4 @@ Current up to Date recipes:
 
 * [v60 Reveal Blonde](v60/Reveal_Blonde.md)
 * [Aeropress Reveal Blonde](aeropress/Reveal_Blonde.md)
+* [Chemex Reveal Blonde](chemex/Reveal_Blonde.md)
