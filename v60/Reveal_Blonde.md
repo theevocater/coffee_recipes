@@ -6,6 +6,8 @@ Beans: 36.0g @ 17clicks on Baratza Encore
 
 Water: 508.3g @ 205°F
 
+Filter: Brown V60 02 Filter
+
 Other: Spoon
 
 ### Writeup ###
