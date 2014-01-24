@@ -36,7 +36,7 @@ Total: 04:38.99
 
 4:00
 
-   Start plunging
+    Start plunging
 
 4:30
 
