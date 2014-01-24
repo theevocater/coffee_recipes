@@ -1,10 +1,10 @@
-## [Coffee](../) / [Aeropress](.) / Reveal Blonde ##
+## [Coffee](.) / Aeropress ##
 
-Date: 10/9/13 11:45
+Beans: 18.5g @ 12clicks on Baratza Encore
 
-Beans: 18.7g @ 12clicks on Baratza Encore
+Water: 300g @ 190°F
 
-Water: 302.1g @ 190°F
+Filter: White Paper
 
 ### Writeup ###
 
@@ -25,7 +25,7 @@ at 1:45.
 
 0:00
 
-    Pour 18.7g grinds into inverted aeropress
+    Pour 18.5g grinds into inverted aeropress
     Make sure water is 190°F
     Add 50-75g of water (enough to make grounds all wet)
     Stir
@@ -53,8 +53,29 @@ at 1:45.
 
 ### Notes ###
 
-Tasty. Brings out a lot more of the acid than the [v60](../v60/Reveal_Blonde.md) as expected. Still
-chocolate-y but more chocolate orange. Cup gets sweeter as it cools, revealing
-some caramels.
+Tasty. Brings out a lot more of the acid than the [v60](v60.md) as expected.
 
+### Dialed In Values ###
 
+<table>
+  <thead>
+    <tr>
+      <th scope="col">Bean Source</th>
+      <th scope="col">Date</th>
+      <th scope="col">Coffee (g)</th>
+      <th scope="col">Water (g)</th>
+      <th scope="col">Water Temp F</th>
+      <th scope="col">Relative Grind</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Reveal Blonde</td>
+      <td>10/9/13 11:45</td>
+      <td>18.7</td>
+      <td>302.1</td>
+      <td>190</td>
+      <td>12</td>
+    </tr>
+  </tbody>
+</table>

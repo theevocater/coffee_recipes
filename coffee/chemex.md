@@ -1,6 +1,4 @@
-## [Coffee](../) / [Chemex](.) / Reveal Blonde ##
-
-Date: 12/02/13 14:24
+## [Coffee](.) / Chemex ##
 
 Beans: 50.0g @ 22clicks on Baratza Encore
 
@@ -66,3 +64,28 @@ drains out, toss the filter and enjoy.
 ### Notes ###
 
 Lots of the same notes as the v60 but a notably cleaner cup.
+
+### Dialed In Values ###
+
+<table>
+  <thead>
+    <tr>
+      <th scope="col">Bean Source</th>
+      <th scope="col">Date</th>
+      <th scope="col">Coffee (g)</th>
+      <th scope="col">Water (g)</th>
+      <th scope="col">Water Temp F</th>
+      <th scope="col">Relative Grind</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Reveal Blonde</td>
+      <td>12/02/13 14:24</td>
+      <td>50.0</td>
+      <td>700.0</td>
+      <td>204</td>
+      <td>22</td>
+    </tr>
+  </tbody>
+</table>
