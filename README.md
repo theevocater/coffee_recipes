@@ -11,4 +11,4 @@ Current up to Date recipes:
 * [v60](coffee/v60.md)
 * [Aeropress](coffee/aeropress.md)
 * [Chemex](coffee/chemex.md)
-* [Press Pot](coffee/chemex.md)
+* [Press Pot](coffee/press_pot.md)
