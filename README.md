@@ -1,14 +1,10 @@
-Yummy coffee recipes
-==============
+## Yummy coffee recipes ##
 
-I've currently organized things by device -> beans.
+Check out [Coffee](coffee/) and [Tea](tea/).
 
-At some point I will back fill and add more general tutorials as I have some
-more free time.
 
-Current up to Date recipes:
+### FAQ ###
 
-* [v60](coffee/v60.md)
-* [Aeropress](coffee/aeropress.md)
-* [Chemex](coffee/chemex.md)
-* [Press Pot](coffee/press_pot.md)
+Q: You know this repo is called
+
+A: Yes I know the name of the repo.
