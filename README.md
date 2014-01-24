@@ -8,6 +8,7 @@ more free time.
 
 Current up to Date recipes:
 
-* [v60 Reveal Blonde](v60/Reveal_Blonde.md)
-* [Aeropress Reveal Blonde](aeropress/Reveal_Blonde.md)
-* [Chemex Reveal Blonde](chemex/Reveal_Blonde.md)
+* [v60](coffee/v60.md)
+* [Aeropress](coffee/aeropress.md)
+* [Chemex](coffee/chemex.md)
+* [Press Pot](coffee/chemex.md)
