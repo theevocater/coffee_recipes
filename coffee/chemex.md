@@ -44,7 +44,7 @@ drains out, toss the filter and enjoy.
 0:35
 
     Fill chemex to the top (roughly 350g)
-    Stir groudns
+    Stir grounds
 
 1:30
 
