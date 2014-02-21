@@ -1,8 +1,8 @@
 ## [Coffee](.) / Chemex ##
 
-Beans: 50.0g @ 22clicks on Baratza Encore
+Beans: 40.0g @ 25clicks on Baratza Encore
 
-Water: 700g @ 204°F
+Water: 600g @ 204°F
 
 Filter: Brown Chemex Filter
 
@@ -10,15 +10,15 @@ Other: Spoon
 
 ### Writeup ###
 
-Start out by putting the kettle on to boil. Grab a fresh filter. This filter is
-a bit complicated. Leave the filter in the square shape. The filter is "folded"
-by simply pulling apart the open edge. It should have 1 layer of filter paper
-on one side and 3 layers on the other. Place the thick side toward the spout of
-the Chemex. Now drop in about 50g beans into your grinder. On the Baratza
-I grind at about 22 clicks, which is a fairly course grind. Because the filter
-is so naturally impermeable, fine grinds tend to over extract.  When the water
-is fairly hot, pour about 300-400g through the filter. The filters can be very
-paper-y if you don't rinse them well.
+Start out by putting the kettle on to boil. Grab a fresh filter. Folding this
+filter is a bit complicated. Leave the filter in the square shape. The filter
+is "folded" by simply pulling apart the open edge. It should have 1 layer of
+filter paper on one side and 3 layers on the other. Place the thick side toward
+the spout of the Chemex. Now drop in about 50g beans into your grinder. On the
+Baratza I grind at about 22 clicks, which is a fairly course grind. Because the
+filter is so naturally impermeable, fine grinds tend to over extract.  When the
+water is fairly hot, pour about 300-400g through the filter. The filters can be
+very paper-y if you don't rinse them well.
 
 Pour out the water and dump in the grounds. Give the chemex a good shake to
 settle the grounds into a flat bed. Using the spoon or a knuckle create a bit
@@ -41,10 +41,13 @@ drains out, toss the filter and enjoy.
     Pour in 50g of grounds
     Add roughly 100g of water
 
-0:35
+0:30
 
     Fill chemex to the top (roughly 350g)
-    Stir grounds
+
+1:00
+
+    Stir grounds to break crust
 
 1:30
 
@@ -63,7 +66,8 @@ drains out, toss the filter and enjoy.
 
 ### Notes ###
 
-Lots of the same notes as the v60 but a notably cleaner cup.
+Lots of the same notes as the v60 but a notably cleaner cup. Using a coarser
+grind gets rid of the paper-y taste
 
 ### Dialed In Values ###
 
@@ -76,16 +80,18 @@ Lots of the same notes as the v60 but a notably cleaner cup.
       <th scope="col">Water (g)</th>
       <th scope="col">Water Temp F</th>
       <th scope="col">Relative Grind</th>
+      <th scope="col">Brew Time</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>Reveal Blonde</td>
-      <td>12/02/13 14:24</td>
-      <td>50.0</td>
-      <td>700.0</td>
+      <td>02/20/14 13:30</td>
+      <td>60.2</td>
+      <td>900.0</td>
       <td>204</td>
-      <td>22</td>
+      <td>26</td>
+      <td>5:01.04</td>
     </tr>
   </tbody>
 </table>
