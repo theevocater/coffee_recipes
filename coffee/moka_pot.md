@@ -74,17 +74,18 @@ the groups and run water through the whole thing.
       <th scope="col">Water Temp F</th>
       <th scope="col">Relative Grind</th>
       <th scope="col">Brew Time</th>
+      <th scope="col">Extract Volume (g)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td></td>
-      <td>0/0/0 00:00</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Bicycle Coffee co Medium Roast</td>
+      <td>03/01/14 13:48</td>
+      <td>24.0</td>
+      <td>277.0</td>
+      <td>212</td>
+      <td>11</td>
+      <td>225.1</td>
     </tr>
   </tbody>
 </table>
