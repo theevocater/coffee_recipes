@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## [Coffee](.) / Press Pot ##
 
 Beans: 50.0g @ 21clicks on Baratza Encore

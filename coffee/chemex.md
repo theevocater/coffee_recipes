@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## [Coffee](.) / Chemex ##
 
 Beans: 40.0g @ 25clicks on Baratza Encore

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Yummy coffee recipes ##
 
 Check out [Coffee](coffee/) and [Tea](tea/).
@@ -8,3 +12,4 @@ Check out [Coffee](coffee/) and [Tea](tea/).
 Q: You know this repo is called
 
 A: Yes I know the name of the repo.
+

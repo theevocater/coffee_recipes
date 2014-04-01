@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## [Coffee](.) / Moka Pot ##
 
 ### Base Values ###

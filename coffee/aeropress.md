@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## [Coffee](.) / Aeropress ##
 
 Beans: 18.5g @ 12clicks on Baratza Encore
@@ -53,7 +57,7 @@ at 1:45.
 
 ### Notes ###
 
-Tasty. Brings out a lot more of the acid than the [v60](v60.md) as expected.
+Tasty. Brings out a lot more of the acid than the [v60](v60.html) as expected.
 
 ### Dialed In Values ###
 
