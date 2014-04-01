@@ -20,7 +20,10 @@ filter is so naturally impermeable, fine grinds tend to over extract.  When the
 water is fairly hot, pour about 300-400g through the filter. The filters can be
 very paper-y if you don't rinse them well.
 
-Pour out the water and dump in the grounds. Give the chemex a good shake to
+Pour out the water into the mugs you'll be serving your coffee in. This warms the
+mugs and will keep your coffee hot longer. 
+
+Dump the grounds into the Chemex. Give the chemex a good shake to
 settle the grounds into a flat bed. Using the spoon or a knuckle create a bit
 of a dimple in order to get an even first pour. Next pour in about 100g of
 water. The coffee (if it's fresh) should rise as it absorbs the water. This is
