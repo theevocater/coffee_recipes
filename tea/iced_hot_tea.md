@@ -1,5 +1,6 @@
 ---
 layout: default
+type: tea
 ---
 
 ## [Tea](.) / Iced Hot Tea ##

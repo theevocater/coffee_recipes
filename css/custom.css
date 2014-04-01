@@ -4,3 +4,21 @@ table th, table td {
   border-collapse: collapse;
   border-spacing: 0;
 }
+
+/* tea */
+.theme-tea .masthead {
+  background-color: #367355;
+}
+.theme-tea .container a,
+.theme-tea .related-posts li a:hover {
+  color: #367355;
+}
+
+/* Brown */
+.theme-coffee .masthead {
+  background-color: #8f5536;
+}
+.theme-coffee .container a,
+.theme-coffee .related-posts li a:hover {
+  color: #8f5536;
+}
