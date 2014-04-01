@@ -3,11 +3,11 @@
 
   {% include head.html %}
 
-  <body class="theme-base-0f">
+  <body class="theme-{{ page.type }}">
 
     <header class="masthead">
       <div class="masthead-inner">
-        <h1>{{ site.title }}</h1>
+        <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
         <p class="lead">{{ site.description }}</p>
 
         <div class="colophon">

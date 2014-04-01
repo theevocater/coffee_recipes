@@ -1,5 +1,6 @@
 ---
 layout: default
+type: coffee
 ---
 
 ## [Coffee](.) / Moka Pot ##

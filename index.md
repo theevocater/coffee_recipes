@@ -4,12 +4,14 @@ layout: default
 
 ## Yummy coffee recipes ##
 
-Check out [Coffee](coffee/) and [Tea](tea/).
+Check out the links to the right to browse various coffee and tea recipes.
+
+If you would like to contribute please visit [github](https://github.com/theevocater/coffee_recipes/).
 
 
 ### FAQ ###
 
-Q: You know this repo is called
+Q: Why is it called coffee recipes if you also have tea?
 
-A: Yes I know the name of the repo.
+A: Yes.
 
