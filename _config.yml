@@ -1,0 +1,4 @@
+title: Coffee Recipes
+markdown: redcarpet
+pygments: true
+baseurl: /coffee_recipes
