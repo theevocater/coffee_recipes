@@ -1,6 +1,36 @@
 ---
-layout: default
-type: coffee
+layout: coffee
+type:   coffee
+timeline:
+  0: 
+    - Water should be 200-205°F
+    - Wet filter with 300-400g of water
+    - Pour in 50g of grounds
+    - Add roughly 100g of water
+  30:
+    - Fill chemex to the top (roughly 350g)
+  60:
+    - Stir grounds to break crust
+  90:
+    - Pour another 125g
+    - Stir grounds
+  150:
+    - Pour another 125g
+    - Stir grounds
+  240:
+    - Finished Dripping
+    - Toss Filter
+notes:
+  Lots of the same notes as the v60 but a notably cleaner cup. Using a coarser grind gets rid of the paper-y taste.
+
+dial:
+  source: Reveal Blonde
+  date: 02/20/14 13:30
+  coffee: 60.2
+  water: 900.0
+  temp: 204
+  grind: 26
+  time: 5:01.04
 ---
 
 ## [Coffee](.) / Chemex ##
@@ -40,66 +70,3 @@ After the water falls about an inch below the top of the chemex, give it
 another pour and stir. Do this one more time and you shit hit 700g. After it
 drains out, toss the filter and enjoy.
 
-### Rough Timeline ###
-
-0:00
-
-    Water should be 200-205°F
-    Wet filter with 300-400g of water
-    Pour in 50g of grounds
-    Add roughly 100g of water
-
-0:30
-
-    Fill chemex to the top (roughly 350g)
-
-1:00
-
-    Stir grounds to break crust
-
-1:30
-
-    Pour another 125g
-    Stir grounds
-
-2:30
-
-    Pour another 125g
-    Stir grounds
-
-4:00
-
-    Finished Dripping
-    Toss Filter
-
-### Notes ###
-
-Lots of the same notes as the v60 but a notably cleaner cup. Using a coarser
-grind gets rid of the paper-y taste
-
-### Dialed In Values ###
-
-<table>
-  <thead>
-    <tr>
-      <th scope="col">Bean Source</th>
-      <th scope="col">Date</th>
-      <th scope="col">Coffee (g)</th>
-      <th scope="col">Water (g)</th>
-      <th scope="col">Water Temp F</th>
-      <th scope="col">Relative Grind</th>
-      <th scope="col">Brew Time</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Reveal Blonde</td>
-      <td>02/20/14 13:30</td>
-      <td>60.2</td>
-      <td>900.0</td>
-      <td>204</td>
-      <td>26</td>
-      <td>5:01.04</td>
-    </tr>
-  </tbody>
-</table>
