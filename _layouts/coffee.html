@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+
+  {% include head.html %}
+
+  <body class="theme-{{ page.type }}">
+
+    <header class="masthead">
+      <div class="masthead-inner">
+        <h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+        <p class="lead">{{ site.description }}</p>
+
+        <div class="colophon">
+          <ul class="colophon-links">
+            <li>
+              <a href="{{ site.baseurl }}/coffee/">Coffee</a>
+            </li>
+            <li>
+              <a href="{{ site.baseurl }}/tea/">Tea</a>
+            </li>
+          </ul>
+          <p>&copy; 2014. {{ site.author.name }} All rights reserved.</p>
+        </div>
+      </div>
+    </header>
+
+    <div class="content container">
+      {{ content }}
+
+      <h3>Rough Timeline</h3>
+      <ul id="timeline">
+        {% for time in page.timeline %}
+          <li class="work">
+            <input class='radio' id='work5' name='works' type='radio' checked>
+            <div class="relative">
+              {% assign seconds = time[0] | modulo: 60 %}
+              {% assign seconds_length = seconds | length %}
+              {% if seconds_length < 2 %}
+                {% assign seconds = seconds | append: "0" %}
+              {% endif %}
+              <span class="date">{{ time[0] | divided_by: 60 }}:{{ seconds }}</span>
+              <span class="circle"></span>
+            </div>
+            <div class="content">
+              {% for instruction in time[1] %}
+                {{ instruction }}
+                <br />
+              {% endfor %}
+            </div>
+          </li>
+        {% endfor %}
+      </ul>
+
+      <h3>Notes</h3>
+      <p>
+        {{ page.notes }}
+      </p>
+
+      <h3>Dialed In Values</h3>
+      <table>
+        <thead>
+          <tr>
+            <th scope="col">Bean Source</th>
+            <th scope="col">Date</th>
+            <th scope="col">Coffee (g)</th>
+            <th scope="col">Water (g)</th>
+            <th scope="col">Water Temp F</th>
+            <th scope="col">Relative Grind</th>
+            <th scope="col">Brew Time</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>{{ page.dial["source"] }}</td>
+            <td>{{ page.dial["date"] }}</td>
+            <td>{{ page.dial["coffee"] }}</td>
+            <td>{{ page.dial["water"] }}</td>
+            <td>{{ page.dial["temp"] }}</td>
+            <td>{{ page.dial["grind"] }}</td>
+            <td>{{ page.dial["time"] }}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+  </body>
+</html>
