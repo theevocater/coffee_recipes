@@ -24,13 +24,14 @@ notes:
   Lots of the same notes as the v60 but a notably cleaner cup. Using a coarser grind gets rid of the paper-y taste.
 
 dial:
-  source: Reveal Blonde
-  date: 02/20/14 13:30
-  coffee: 60.2
-  water: 900.0
-  temp: 204
-  grind: 26
-  time: 5:01.04
+  -
+    source: Reveal Blonde
+    date: 02/20/14 13:30
+    coffee: 60.2
+    water: 900.0
+    temp: 204
+    grind: 26
+    time: 5:01.04
 ---
 
 ## [Coffee](.) / Chemex ##

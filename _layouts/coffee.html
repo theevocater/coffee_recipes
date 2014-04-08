@@ -70,15 +70,17 @@
           </tr>
         </thead>
         <tbody>
+        {% for entry in page.dial %}
           <tr>
-            <td>{{ page.dial["source"] }}</td>
-            <td>{{ page.dial["date"] }}</td>
-            <td>{{ page.dial["coffee"] }}</td>
-            <td>{{ page.dial["water"] }}</td>
-            <td>{{ page.dial["temp"] }}</td>
-            <td>{{ page.dial["grind"] }}</td>
-            <td>{{ page.dial["time"] }}</td>
+            <td>{{ entry["source"] }}</td>
+            <td>{{ entry["date"] }}</td>
+            <td>{{ entry["coffee"] }}</td>
+            <td>{{ entry["water"] }}</td>
+            <td>{{ entry["temp"] }}</td>
+            <td>{{ entry["grind"] }}</td>
+            <td>{{ entry["time"] }}</td>
           </tr>
+        {% endfor %}
         </tbody>
       </table>
     </div>
