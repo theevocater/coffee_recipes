@@ -1,11 +1,43 @@
 ---
-layout: default
+layout: coffee
 type: coffee
+
+timeline:
+  0:
+    - Water should be 212°F
+    - Fill lower chamber until fill line (300g)
+    - Pour in 24g of beans and tamp
+    - Place on burner at medium
+  60:
+    - Coffee begins to flow into the top chamber
+  120:
+    - Coffee flow turns from brown to yellow / begins to slow
+    - Remove from heat
+
+dial:
+  -
+    source: Bicycle Coffee co Medium Roast
+    date:   03/01/14 13:48
+    coffee: 24.0
+    water:  277.0
+    temp:   212
+    grind:  11
+    boil:
+    time:   ---
+    yield:  225.1
+  -
+    source: Four Barrel Robot Mata Ethiopia
+    date:   03/15/14 15:35
+    coffee: 29.8
+    water:  281.2
+    temp:   212
+    grind:  12
+    boil:   1:23.41
+    time:   2:15.86
+    yield:  224.5
 ---
 
 ## [Coffee](.) / Moka Pot ##
-
-### Base Values ###
 
 This is for the 'Bialetti 6 cup' moka pot. The fill line on mine is around 300g
 of water which is almost the size of one of my mugs.
@@ -48,65 +80,3 @@ coffee into mug and enjoy.
 
 Cleaning is a bit of a pain so normally I wait till it cools a bit then dump
 the groups and run water through the whole thing.
-
-### Rough Timeline ###
-
-0:00
-
-    Water should be 212°F
-    Fill lower chamber until fill line (300g)
-    Pour in 24g of beans and tamp
-    Place on burner at medium
-
-1:00
-
-    Coffee begins to flow into the top chamber
-
-2:00
-
-    Coffee flow turns from brown to yellow / begins to slow
-    Remove from heat
-
-### Notes ###
-
-### Dialed In Values ###
-
-<table>
-  <thead>
-    <tr>
-      <th scope="col">Bean Source</th>
-      <th scope="col">Date</th>
-      <th scope="col">Coffee (g)</th>
-      <th scope="col">Water (g)</th>
-      <th scope="col">Water Temp (ºF)</th>
-      <th scope="col">Relative Grind</th>
-      <th scope="col">Time to Boil Over</th>
-      <th scope="col">Brew Time</th>
-      <th scope="col">Yield Mass (g)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Bicycle Coffee co Medium Roast</td>
-      <td>03/01/14 13:48</td>
-      <td>24.0</td>
-      <td>277.0</td>
-      <td>212</td>
-      <td>11</td>
-      <td>---</td>
-      <td>---</td>
-      <td>225.1</td>
-    </tr>
-     <tr>
-      <td>Four Barrel Robot Mata Ethiopia</td>
-      <td>03/15/14 15:35</td>
-      <td>29.8</td>
-      <td>281.2</td>
-      <td>212</td>
-      <td>12</td>
-      <td>1:23.41</td>
-      <td>2:15.86</td>
-      <td>224.5</td>
-    </tr>
-  </tbody>
-</table>

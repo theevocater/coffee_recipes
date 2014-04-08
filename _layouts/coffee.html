@@ -53,7 +53,9 @@
 
       <h3>Notes</h3>
       <p>
-        {{ page.notes }}
+        {% if page.notes %}
+          {{ page.notes | markdownify }}
+        {% endif %}
       </p>
 
       <h3>Dialed In Values</h3>
@@ -67,6 +69,7 @@
             <th scope="col">Water Temp F</th>
             <th scope="col">Relative Grind</th>
             <th scope="col">Brew Time</th>
+            <th scope="col">Yield Mass (g)</th>
           </tr>
         </thead>
         <tbody>
@@ -79,6 +82,7 @@
             <td>{{ entry["temp"] }}</td>
             <td>{{ entry["grind"] }}</td>
             <td>{{ entry["time"] }}</td>
+            <td>{{ entry["yield"] }}</td>
           </tr>
         {% endfor %}
         </tbody>

@@ -1,8 +1,13 @@
 ---
 layout: coffee
 type:   coffee
+
+notes:
+ Lots of the same notes as the v60 but a notably cleaner cup. Using a coarser
+ grind gets rid of the paper-y taste.
+
 timeline:
-  0: 
+  0:
     - Water should be 200-205°F
     - Wet filter with 300-400g of water
     - Pour in 50g of grounds
@@ -20,18 +25,16 @@ timeline:
   240:
     - Finished Dripping
     - Toss Filter
-notes:
-  Lots of the same notes as the v60 but a notably cleaner cup. Using a coarser grind gets rid of the paper-y taste.
 
 dial:
   -
     source: Reveal Blonde
-    date: 02/20/14 13:30
+    date:   02/20/14 13:30
     coffee: 60.2
-    water: 900.0
-    temp: 204
-    grind: 26
-    time: 5:01.04
+    water:  900.0
+    temp:   204
+    grind:  26
+    time:   5:01.04
 ---
 
 ## [Coffee](.) / Chemex ##
@@ -57,7 +60,7 @@ water is fairly hot, pour about 300-400g through the filter. The filters can be
 very paper-y if you don't rinse them well.
 
 Pour out the water into the mugs you'll be serving your coffee in. This warms the
-mugs and will keep your coffee hot longer. 
+mugs and will keep your coffee hot longer.
 
 Dump the grounds into the Chemex. Give the chemex a good shake to
 settle the grounds into a flat bed. Using the spoon or a knuckle create a bit
@@ -70,4 +73,3 @@ at that point. After you finish pouring, give the grounds a bit of a stir.
 After the water falls about an inch below the top of the chemex, give it
 another pour and stir. Do this one more time and you shit hit 700g. After it
 drains out, toss the filter and enjoy.
-
