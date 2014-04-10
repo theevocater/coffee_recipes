@@ -1,6 +1,8 @@
 ---
 layout: coffee
-type: coffee
+type:   coffee
+
+title: Aeropress
 
 notes:
   Tasty. Brings out a lot more of the acid than the [v60](v60.html) as
@@ -40,8 +42,6 @@ dial:
     yield:
 
 ---
-## [Coffee](.) / Aeropress ##
-
 Beans: 18.5g @ 12clicks on Baratza Encore
 
 Water: 300g @ 190°F

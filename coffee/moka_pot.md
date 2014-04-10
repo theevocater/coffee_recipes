@@ -1,6 +1,8 @@
 ---
 layout: coffee
-type: coffee
+type:   coffee
+
+title: Moka Pot
 
 timeline:
   0:
@@ -36,9 +38,6 @@ dial:
     time:   2:15.86
     yield:  224.5
 ---
-
-## [Coffee](.) / Moka Pot ##
-
 This is for the 'Bialetti 6 cup' moka pot. The fill line on mine is around 300g
 of water which is almost the size of one of my mugs.
 
