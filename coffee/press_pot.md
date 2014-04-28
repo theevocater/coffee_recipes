@@ -1,6 +1,8 @@
 ---
 layout: coffee
-type: coffee
+type:   coffee
+
+title: Press Pot (French Press)
 
 notes:
   Having only drunk pour over coffee for some time, this was unbelievably thick
@@ -32,9 +34,6 @@ dial:
     time:   04:38.99
     yield:
 ---
-
-## [Coffee](.) / Press Pot ##
-
 Beans: 50.0g @ 21clicks on Baratza Encore
 
 Water: 750g @ 210°F

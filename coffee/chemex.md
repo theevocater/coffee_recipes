@@ -2,6 +2,8 @@
 layout: coffee
 type:   coffee
 
+title: Chemex
+
 notes:
  Lots of the same notes as the v60 but a notably cleaner cup. Using a coarser
  grind gets rid of the paper-y taste.
@@ -36,9 +38,6 @@ dial:
     grind:  26
     time:   5:01.04
 ---
-
-## [Coffee](.) / Chemex ##
-
 Beans: 40.0g @ 25clicks on Baratza Encore
 
 Water: 600g @ 204°F
