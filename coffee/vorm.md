@@ -38,6 +38,15 @@ dial:
     grind:  19
     time:   20:15
     yield:
+  -
+    source: Verve Coffee The Sermon
+    date:   05/02/14 11:00
+    coffee: 72.5
+    water:  1202.0
+    temp:   body temperature
+    grind:  19
+    time:   20:15
+    yield:
 ---
 
 Beans: 75g @ 18clicks on Baratza Encore
