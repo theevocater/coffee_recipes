@@ -47,6 +47,15 @@ dial:
     grind:  19
     time:   20:15
     yield:
+  -
+    source: Verve Coffee Karatina
+    date:   05/15/14 9:30
+    coffee: 70.0
+    water:  1215.1
+    temp:   cool
+    grind:  19
+    time:   15:01
+    yield:  1095.0
 ---
 
 Beans: 75g @ 18clicks on Baratza Encore
