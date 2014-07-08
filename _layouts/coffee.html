@@ -37,11 +37,24 @@
             <input class='radio' id='work5' name='works' type='radio' checked>
             <div class="relative">
               {% assign seconds = time[0] | modulo: 60 %}
+              {% assign minutes = time[0] | divided_by: 60 | modulo: 60 %}
+              {% assign hours = time[0] | divided_by: 3600 %}
               {% assign seconds_length = seconds | length %}
+              {% assign minutes_length = minutes | length %}
               {% if seconds_length < 2 %}
                 {% assign seconds = seconds | append: "0" %}
               {% endif %}
-              <span class="date">{{ time[0] | divided_by: 60 }}:{{ seconds }}</span>
+              {% if hours != 0 and minutes_length < 2 %}
+                {% assign minutes = minutes | append: "0" %}
+              {% endif %}
+              {% if hours != 0 %}
+                {% assign hours = hours | append: ":" %}
+              {% else %}
+                {% assign hours = "" %}
+              {% endif %}
+              <span class="date">
+                {{ hours }}{{ minutes }}:{{ seconds }}
+              </span>
               <span class="circle"></span>
             </div>
             <div class="content">

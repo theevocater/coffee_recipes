@@ -14,3 +14,4 @@ for brewing that method plus a table at the bottom with more specific settings.
  - [Press Pot (French Press)](press_pot.html)
  - [Hario V60](v60.html)
  - [Technivorm](vorm.html)
+ - [Cold Brew](cold_brew.html)
