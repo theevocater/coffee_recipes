@@ -29,6 +29,7 @@ timeline:
 
 dial:
   -
+    batch: 3
     source: San Francisco Bay Fogchaser
     date:   06/26/14 10:16
     coffee: 149.9
@@ -38,6 +39,7 @@ dial:
     time:   24
     yield:  500
   -
+    batch: 4
     source: "2 San Francisco Bay Fogchaser : 1 Blue Bottle Roman Espresso"
     date:   7/4/2014 17:18
     coffee: 150.6
@@ -47,6 +49,7 @@ dial:
     time:   26
     yield:  451
   -
+    batch: 5
     source: "2 San Francisco Bay Fogchaser : 1 Blue Bottle Roman Espresso"
     date:   7/6/2014 14:32
     coffee: 120.5
@@ -55,6 +58,26 @@ dial:
     grind:  29
     time:   30
     yield:  527.0
+  -
+    batch: 6
+    source: "2 San Francisco Bay Fogchaser : 1 Blue Bottle Roman Espresso"
+    date:   7/12/2014 10:08
+    coffee: 90.3
+    water:  855.0
+    temp:   65
+    grind:  28
+    time:   28
+    yield:  680.1
+  -
+    batch: 7
+    source: "1 San Francisco Bay Fogchaser : 1 Blue Bottle Roman Espresso"
+    date:   7/12/2014 10:08
+    coffee: 90.6
+    water:  860.0
+    temp:   65
+    grind:  28
+    time:   28
+    yield:  688.3
 ---
 
 Beans: 170g @ 30clicks on Baratza Encore
