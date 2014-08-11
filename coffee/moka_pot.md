@@ -37,6 +37,16 @@ dial:
     boil:   1:23.41
     time:   2:15.86
     yield:  224.5
+  -
+    source: Cartel Coffee Wahana Graha Makmur
+    date:   08/11/14 09:17
+    coffee: 26.1
+    water:  276.9
+    temp:   212
+    grind:  12
+    boil:   01:35.15
+    time:   2:33.23
+    yield:  186.9
 ---
 This is for the 'Bialetti 6 cup' moka pot. The fill line on mine is around 300g
 of water which is almost the size of one of my mugs.
