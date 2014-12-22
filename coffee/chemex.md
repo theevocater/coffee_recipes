@@ -67,8 +67,8 @@ of a dimple in order to get an even first pour. Next pour in about 100g of
 water. The coffee (if it's fresh) should rise as it absorbs the water. This is
 the "bloom" that coffee people talk about. After waiting a bit for the grounds
 to bloom (about 30 seconds) you should give the grounds a good stir and pour in
-water until the chemex is full. You will probably hit around 450g total water
+water until the chemex is "full," some models of Chemex will have a glass bead on the side to indicate the point to which you should fill it up. You will probably hit around 450g total water
 at that point. After you finish pouring, give the grounds a bit of a stir.
 After the water falls about an inch below the top of the chemex, give it
-another pour and stir. Do this one more time and you shit hit 700g. After it
+another pour and stir. Do this one more time and you should hit 700g. After it
 drains out, toss the filter and enjoy.
