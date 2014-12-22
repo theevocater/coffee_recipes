@@ -15,7 +15,7 @@ timeline:
     - Pour in 50g of grounds
     - Add roughly 100g of water
   30:
-    - Fill chemex to the top (roughly 350g)
+    - Fill Chemex to the top (roughly 350g)
   60:
     - Stir grounds to break crust
   90:
@@ -61,14 +61,17 @@ very paper-y if you don't rinse them well.
 Pour out the water into the mugs you'll be serving your coffee in. This warms the
 mugs and will keep your coffee hot longer.
 
-Dump the grounds into the Chemex. Give the chemex a good shake to
-settle the grounds into a flat bed. Using the spoon or a knuckle create a bit
-of a dimple in order to get an even first pour. Next pour in about 100g of
-water. The coffee (if it's fresh) should rise as it absorbs the water. This is
-the "bloom" that coffee people talk about. After waiting a bit for the grounds
-to bloom (about 30 seconds) you should give the grounds a good stir and pour in
-water until the chemex is "full," some models of Chemex will have a glass bead on the side to indicate the point to which you should fill it up. You will probably hit around 450g total water
-at that point. After you finish pouring, give the grounds a bit of a stir.
-After the water falls about an inch below the top of the chemex, give it
-another pour and stir. Do this one more time and you should hit 700g. After it
-drains out, toss the filter and enjoy.
+Dump the grounds into the Chemex. Give the Chemex a good shake to settle the
+grounds into a flat bed. Using the spoon or a knuckle create a bit of a dimple
+in order to get an even first pour. Next pour in about 100g of water. The
+coffee (if it's fresh) should rise as it absorbs the water. This is the "bloom"
+that coffee people talk about. After waiting a bit for the grounds to bloom
+(about 30 seconds) you should give the grounds a good stir and pour in water
+until the top half of the Chemex is nearly filled. You will probably reach
+about 450g total water at that point. After you finish pouring, give the
+grounds a bit of a stir. After the water falls about an inch below the top of
+the Chemex, give it another pour and stir. Do this one more time and you should
+hit 700g. As the water falls to the bottom, pay attention to the small glass
+'bead' on the outside wall of the Chemex. When the coffee reaches that level,
+pull the filter and toss it. Serve and enjoy!
+
